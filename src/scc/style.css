@@ -28,20 +28,20 @@ input {
     appearance: none;
     border: none;
     outline: none;
-    border-bottom: .2em solid #F082AC;
+    border-bottom: .2em solid #4808c8;
     border-radius: .2em .2em 0 0;
     padding: .4em;
-    color: #F082AC;
+    color: #4808c8;
 }
 
 input::placeholder {
-    color: #F082AC;
+    color: #4808c8;
 }
 
 button {
     border-radius: 8px;
     border-style: none;
-    color: #F082AC;
+    color: #4808c8;
     cursor: pointer;
     height: 40px;
     padding: 10px 16px;
